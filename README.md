@@ -4,21 +4,21 @@
 
 This project experiments with the use of blockchain to track contributions to a project.<br>
 
-###Decentralized Ledger:
+### Decentralized Ledger:
 
 * Utilize a blockchain network to maintain a decentralized ledger of all project contributions.
 * Enhance transparency by allowing all participants to access and verify the contribution history.
 
-###Immutable Record:
+### Immutable Record:
 
-*Ensure the integrity of contribution data by implementing a consensus mechanism that prevents unauthorized modifications to the blockchain.
+* Ensure the integrity of contribution data by implementing a consensus mechanism that prevents unauthorized modifications to the blockchain.
 
-###Smart Contracts:
+### Smart Contracts:
 
-*Employ smart contracts to automate contribution validation and execution of predefined rules.
+* Employ smart contracts to automate contribution validation and execution of predefined rules.
 * Smart contracts can enforce conditions for accepting contributions, such as minimum/maximum amounts, verification criteria, etc.
 
-###User Authentication and Authorization:
+### User Authentication and Authorization:
 
 * Implement secure user authentication to ensure that only authorized individuals can submit contributions.
 * Define different user roles with specific permissions, such as contributors, project administrators, and auditors.
