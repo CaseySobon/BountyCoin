@@ -1,10 +1,11 @@
 # BountyCoin
 
-## Description
+## Description:
 This project is to experiment with blockchains to create a system for tracking contributions to a project.
 
 The BountyCoin is a Python-based blockchain program designed to transparently and securely track contributions to a project. Leveraging blockchain technology, the system ensures a tamper-resistant and immutable ledger of all contributions, fostering trust and accountability within the project community.
 
+## Scope:
 ### Decentralized Ledger:
 
 * Utilize a blockchain network to maintain a decentralized ledger of all project contributions.
