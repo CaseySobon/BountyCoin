@@ -4,12 +4,14 @@
 
 This project experiments with the use of blockchain to track contributions to a project.
 
+
+
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* This project was made in Python and requires the IDE to run.
+
 
 ### Installing
 
