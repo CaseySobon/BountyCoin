@@ -3,7 +3,9 @@
 ## Description
 
 This project experiments with the use of blockchain to track contributions to a project.
-
+The idea was to make an initial system that can:
+* Generate a unique hash for a "cion"
+* 
 
 
 ## Getting Started
