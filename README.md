@@ -74,4 +74,28 @@ The idea for this project was based on the Covid-related remote work trend which
 
 * The program will run through the main file
 
+## Progress
+
+#### Blockchain Implementation:
+
+* Established the Ethereum framework
+* Setup one node for testing
+
+#### Smart Contract Development:
+
+* Designed the smart contract
+* Designed code to update the hash
+
+#### User Authentication and Authorization:
+
+* Not started
+
+#### Tokenization:
+
+* Not started
+
+#### Web Interface:
+
+* Not started
+
 
